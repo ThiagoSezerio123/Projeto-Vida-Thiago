@@ -65,6 +65,17 @@ body {
     border-bottom: 4px  solid var(--verde);
 }
 
+.abs-texto{
+    background-color: var(--texto-fundo);
+    padding: 40px;
+    border-radius: 0 0 40px 40px;
+}
+
+.abas-conteudo.ativo{
+    display: block;
+}
+
+
 
 
 
